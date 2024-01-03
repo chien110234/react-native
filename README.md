@@ -45,7 +45,7 @@ React Native brings [**React**'s][r] declarative UI framework to iOS and Android
 
 - **Declarative.** React makes it painless to create interactive UIs. Declarative views make your code more predictable and easier to debug.
 - **Component-Based.** Build encapsulated components that manage their state, then compose them to make complex UIs.
-- **Developer Velocity.** See local changes in seconds. Changes to JavaScript code can be live reloaded without rebuilding the native app.
+- **Developer Velocity.** See local changes in seconds. Changes to JavaScript code can be live-reloaded without rebuilding the native app.
 - **Portability.** Reuse code across iOS, Android, and [other platforms][p].
 
 React Native is developed and supported by many companies and individual core contributors. Find out more in our [ecosystem overview][e].
@@ -104,7 +104,7 @@ React Native releases are discussed [in this discussion repo](https://github.com
 
 ## 👏 How to Contribute
 
-The main purpose of this repository is to continue evolving React Native core. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can take part in improving React Native.
+The main purpose of this repository is to continue evolving the React Native core. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can take part in improving React Native.
 
 ### [Code of Conduct][code]
 
@@ -115,7 +115,7 @@ Please read the [full text][code] so that you can understand what actions will a
 
 ### [Contributing Guide][contribute]
 
-Read our [**Contributing Guide**][contribute] to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to React Native.
+Read our [**Contributing Guide**][contribute] to learn about our development process, how to propose bug fixes and improvements, and how to build and test your changes to React Native.
 
 [contribute]: https://reactnative.dev/docs/contributing
 
@@ -127,7 +127,7 @@ You can learn more about our vision for React Native in the [**Roadmap**][roadma
 
 ### Good First Issues
 
-We have a list of [good first issues][gfi] that contain bugs which have a relatively limited scope. This is a great place to get started, gain experience, and get familiar with our contribution process.
+We have a list of [good first issues][gfi] that contain bugs that have a relatively limited scope. This is a great place to get started, gain experience, and get familiar with our contribution process.
 
 [gfi]: https://github.com/facebook/react-native/labels/good%20first%20issue
 
@@ -139,7 +139,7 @@ Larger discussions and proposals are discussed in [**@react-native-community/dis
 
 ## 📄 License
 
-React Native is MIT licensed, as found in the [LICENSE][l] file.
+React Native is MIT-licensed, as found in the [LICENSE][l] file.
 
 React Native documentation is Creative Commons licensed, as found in the [LICENSE-docs][ld] file.
 
